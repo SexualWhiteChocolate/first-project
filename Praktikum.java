@@ -1,4 +1,6 @@
 public class Praktikum{
-	int year;
-	int age;
+	int year, age;
+	public static void main(String[] args) {
+		System.out.println("Yo");
+	}
 }
